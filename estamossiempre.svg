@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.5 14.15">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: SourceSansPro-Bold, 'Source Sans Pro';
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-family: SourceSansPro-Light, 'Source Sans Pro';
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Capa_4" data-name="Capa 4">
+    <g>
+      <text class="cls-3" transform="translate(0 10.1) scale(1.03 1)"><tspan x="0" y="0">e</tspan><tspan class="cls-7" x="5.8" y="0">s</tspan><tspan class="cls-5" x="10.42" y="0">t</tspan><tspan class="cls-1" x="13.91" y="0">amos</tspan></text>
+      <text class="cls-2" transform="translate(44.44 9.96) scale(1.03 1)"><tspan x="0" y="0">siemp</tspan><tspan class="cls-6" x="32" y="0">r</tspan><tspan x="36.66" y="0">e.</tspan></text>
+      <line class="cls-4" x1="71.05" y1="13.65" x2="88.22" y2="13.65"/>
+    </g>
+  </g>
+</svg>
